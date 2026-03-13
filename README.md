@@ -1,4 +1,3 @@
-# VisionDerm
 # VisionDerm 🩺
 
 VisionDerm is a deep learning web application that detects and classifies common skin conditions from images. 
