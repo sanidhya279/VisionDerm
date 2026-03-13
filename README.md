@@ -17,7 +17,7 @@ This project uses a fine-tuned EfficientNet B4 model built with PyTorch. It anal
 * **Image Processing:** Pillow
 
 ## Live Demo
-[Insert your Streamlit app link here!]
+https://visionderm-cvu3ji2rdqq3wjp3uncbox.streamlit.app/
 
 ## How to Run Locally
 If you want to run this project on your own computer, follow these steps:
